@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical Analysis on Website of Yong Yang</title>
+    <link>https://yytamu.gitee.io/2020na/</link>
+    <description>Recent content in Numerical Analysis on Website of Yong Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Sep 2020 20:12:01 +0800</lastBuildDate>
+    
+	<atom:link href="https://yytamu.gitee.io/2020na/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homework</title>
+      <link>https://yytamu.gitee.io/2020na/homework/</link>
+      <pubDate>Mon, 21 Sep 2020 20:17:50 +0800</pubDate>
+      
+      <guid>https://yytamu.gitee.io/2020na/homework/</guid>
+      <description>table, th, td { border: 1px solid black; } th, td { padding: 15px; } tr:nth-child(odd) {background: #CCC} tr:nth-child(even) {background: #FFF} .</description>
+    </item>
+    
+    <item>
+      <title>Time and Location</title>
+      <link>https://yytamu.gitee.io/2020na/time-and-location/</link>
+      <pubDate>Mon, 21 Sep 2020 20:12:18 +0800</pubDate>
+      
+      <guid>https://yytamu.gitee.io/2020na/time-and-location/</guid>
+      <description>Tuesday, 3-4, 10:15-12:00, 10305
+  Thursday, 1-2, 8:00-9:45, 2207</description>
+    </item>
+    
+  </channel>
+</rss>
